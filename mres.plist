@@ -24,7 +24,7 @@
 					<key>kind</key>
 					<string>software</string>
 					<key>bundle-identifier</key>
-					<string>com.ccssoft.iResource</string>
+					<string>com.ccssoft.iResourceCS</string>
 				</dict>
 			</dict>
 		</array>
